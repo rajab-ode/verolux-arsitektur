@@ -1,6 +1,22 @@
-# Verolux Architecture
+# Verolux Management System - Architecture & Implementation
 
-A clean, scalable architecture template for building robust applications following **Clean Architecture** principles (also known as Hexagonal Architecture or Ports and Adapters).
+A unified workforce management and operational reporting platform for **Security, Cleaning, and Driver/Transport** divisions.
+
+## 📚 Documentation
+
+| Document | Description |
+|----------|-------------|
+| [SRM Architecture](docs/SRM-ARCHITECTURE.md) | **Complete SRM system architecture documentation** |
+| [Implementation Phases](docs/IMPLEMENTATION-PHASES.md) | Complete phase-by-phase implementation guide |
+| [Phase Summary](docs/PHASE-SUMMARY.md) | Quick reference for all phases |
+| [Feature Comparison](docs/FEATURE-COMPARISON.md) | SRM vs Verolux feature matrix |
+| [Reference Screenshots](docs/reference-project/) | Screenshots from reference project (SRM) |
+
+---
+
+## 🏗️ Architecture Overview
+
+This project follows **Clean Architecture** principles (also known as Hexagonal Architecture or Ports and Adapters).
 
 ## 📁 Project Structure
 
